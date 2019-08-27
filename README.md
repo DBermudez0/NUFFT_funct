@@ -18,4 +18,4 @@ Non-uniform Fourier Transform for radial data reconstruction in Python
 run demo_liver_recon.py to see how to reconstruct a radial liver MRI dataset for a single-coil single channel data.
 
 <h4> Requirements </h4>
-scipy, numpy, matplotlib, and mpmath (https://github.com/fredrik-johansson/mpmath) modules.
+scipy, numpy, matplotlib, math, and mpmath (https://github.com/fredrik-johansson/mpmath) modules.
