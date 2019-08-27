@@ -15,4 +15,4 @@ Non-uniform Fourier Transform for radial data reconstruction in Python
 <h5> mtimes:</h5> function to go from k-space to image space (or vise-verse) for multi-coil multi-channel data.
 
 <h4> Example </h4>
-run demo_liver_recon.py to see how to reconstruct a radial MRI dataset for a single-coil single channel data.
+run demo_liver_recon.py to see how to reconstruct a radial liver MRI dataset for a single-coil single channel data.
