@@ -22,10 +22,10 @@ scipy, numpy, matplotlib, math, cmath, and mpmath (https://github.com/fredrik-jo
 
 <h4> Instructions </h4>
 <p> 1. type in command line git clone https://github.com/fredrik-johansson/mpmath </p>
-2. then cd mpmath
-3. type in command line git clone https://github.com/DBermudez0/NUFFT_funct
-4. then cd NUFFT_funct
-5. type in command line mv * ../
-6. cd ..
-5. type in command line: python demo_liver_recon.py
+<p> 2. then cd mpmath </p>
+<p> 3. type in command line git clone https://github.com/DBermudez0/NUFFT_funct </p>
+<p> 4. then cd NUFFT_funct </p>
+<p> 5. type in command line mv * ../ </p>
+<p> 6. cd .. </p>
+<p> 5. type in command line: python demo_liver_recon.py </p>
 
