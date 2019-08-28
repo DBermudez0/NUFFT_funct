@@ -20,3 +20,12 @@ run demo_liver_recon.py to see how to reconstruct a radial liver MRI dataset for
 <h4> Requirements </h4>
 scipy, numpy, matplotlib, math, cmath, and mpmath (https://github.com/fredrik-johansson/mpmath) modules.
 
+<h4> Instructions </h4>
+1. type in command line git clone https://github.com/fredrik-johansson/mpmath
+2. then cd mpmath
+3. type in command line git clone https://github.com/DBermudez0/NUFFT_funct
+4. then cd NUFFT_funct
+5. type in command line mv * ../
+6. cd ..
+5. type in command line: python demo_liver_recon.py
+
