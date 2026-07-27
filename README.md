@@ -1,5 +1,5 @@
 # NUFFT_funct
-Non-uniform Fourier Transform for radial data reconstruction in Python
+Non-uniform Fourier Transform for radial data reconstruction in Python (updated some previous bugs)
 <h3> Python based NUFFT (based of Jeff Fessler NUFFT MATLAB package)</h3>
   <img src ="Full_sampled_liver_recon.png" width="800" height="600" />
   
